@@ -1,20 +1,24 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[FEATURE]"
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Client End Feature type**
+- [ ] Code Update
+- [ ] Code Change
+- [ ] Design/Visual Update
+- [ ] Design/Visual Change
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**User End Feature Type**
+- [ ] Completely new feature
+- [ ] Quality of life feature
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Changes required**
+- Mention all the changes required in a list
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Notes/Description**
+Optional description if required. Write "none" if empty.
